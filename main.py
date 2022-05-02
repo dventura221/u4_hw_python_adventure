@@ -1,4 +1,6 @@
 # Create your own adventure with python here
+# Inspo from https://trinket.io/python/6d4371f542 and https://replit.com/@AdamRicks/Epic-Journey#main.py
+
 
 wins = 0
 losses = 0
